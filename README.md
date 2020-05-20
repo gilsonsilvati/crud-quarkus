@@ -28,3 +28,5 @@ Or, if you don't have GraalVM installed, you can run the native executable build
 You can then execute your native executable with: `./target/crud-quarkus-1.0.0-SNAPSHOT-runner`
 
 If you want to learn more about building native executables, please consult https://quarkus.io/guides/building-native-image.
+
+![quarkus_logo_horizontal_rgb_1280px_default_whitebkg](https://user-images.githubusercontent.com/7306453/82477936-87188080-9aa6-11ea-969e-4d3d743a3138.png)
